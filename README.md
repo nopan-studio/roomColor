@@ -27,5 +27,7 @@ you can replace the wallpapers in the wallpapers folder, just remember to name t
 ## Usage:
 1) launch run.bat
 2) set-up triggers check control section for setting up triggers
-3) have fun!
+3) exit the script to reload changes
+4) relaunch run.bat
+5) have fun!
 
